@@ -1168,6 +1168,12 @@ header .heroDescription .socialsResume .resumeLink:focus {
   font-size: 16px;
 }
 
+.date-line {
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
 .timeline-block .card-content .modal-dot {
   outline: 0;
   font-size: 20px;
